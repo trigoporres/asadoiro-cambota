@@ -17,5 +17,5 @@
     "target": "ESNext",
     "useDefineForClassFields": true
   },
-  "include": ["src", "vite.config.ts", "tamagui.config.ts"]
+  "include": ["src", "vite.config.ts"]
 }
